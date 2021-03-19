@@ -7,7 +7,7 @@ Features oF Outbreak Notification System:
  3) Get your results within fraction of second. One Pop-up Multiple information.
 
 Some Important package needs to be imported:
-  from plyer import notification
-  import requests
-  from bs4 import BeautifulSoup
-  import time
+  1.from plyer import notification
+  2.import requests
+  3.from bs4 import BeautifulSoup
+  4.import time
